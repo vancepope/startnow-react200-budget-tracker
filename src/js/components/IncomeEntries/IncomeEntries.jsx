@@ -7,7 +7,7 @@ export default class IncomeEntries extends Component {
 
   render() {
     return (
-      <div className='card border-danger mb-3'>
+      <div className='card border-success mb-3'>
         <div className='card-header text-white bg-success'>Income Entries</div>
         <div className='card-body'>
           <form>
